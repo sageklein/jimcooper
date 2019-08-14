@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(133, 162, 190);
+}
+
+h1, h2, h3 {
+    text-transform: uppercase;
+    text-align: left;
+    color: rgb(4, 0, 255);
+}
+
+.jim {
+    width:100%;
+    height: auto;
+    overflow: hidden;
+}
+/* unvisited link */
+a:link {
+    color: rgb(98, 98, 194);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(12, 103, 131);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(218, 220, 250);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(17, 17, 197);
+  }
+
+
+footer {
+    background-color: rgb(0, 12, 122);
+    color: white;
+    text-align: center;
+}
+
+footer a {
+    color: rgb(182, 181, 241)
+}
